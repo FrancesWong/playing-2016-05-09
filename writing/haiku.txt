@@ -1,3 +1,5 @@
+[Title]
+
 The Tao that is seen
 Is not the true Tao, until
 You bring fresh toner.
@@ -9,3 +11,5 @@ and the presence of absence:
 Yesterday it worked
 Today it is not working
 Software is like that.
+
+Fin.
